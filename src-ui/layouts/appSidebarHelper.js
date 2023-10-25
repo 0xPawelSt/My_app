@@ -5,7 +5,7 @@ export const menuItems = [
     icon: "mdi-view-compact",
   },
   {
-    title: "Page Two",
+    title: "Traiding View Chart",
     routePath: "page-two",
     icon: "mdi-view-compact",
   },

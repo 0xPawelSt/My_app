@@ -1,6 +1,6 @@
 <template>
   <v-footer app border height="48">
-    <div>Copyright &copy; Company</div>
+    <div>P. Stawiszynski &copy; 2023</div>
   </v-footer>
 </template>
 
